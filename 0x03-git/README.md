@@ -1,2 +1,2 @@
 My Second readme
-it is update and commit from GitHub interface
+it is the  updated and commit from GitHub interface
